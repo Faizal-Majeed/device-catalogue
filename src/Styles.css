@@ -1,0 +1,8 @@
+.align-center {
+    align-items: center;
+    text-align: center;
+}
+
+.paddingSmall {
+    padding: 1.5rem;
+}
