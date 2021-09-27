@@ -6,6 +6,15 @@ This project was created as a developer challenge for TELUS Digital.
 
 [Click here to see requirement](#device-catalogue)
 
+### Output
+
+![Home](https://user-images.githubusercontent.com/13835730/134930285-684db160-a5a9-4b42-a6ca-6259327d9fe9.png)
+
+![iPhone_Result](https://user-images.githubusercontent.com/13835730/134930308-d6ea28aa-bb68-4782-84cf-e4ca464bc05e.png)
+
+![Watch_Result](https://user-images.githubusercontent.com/13835730/134930343-37fc739c-8119-47f6-a3ac-1a31edaca1d1.png)
+
+
 ### Issues
 Due to Import Image issue on Jest, I was not ble to complete the unit test. 
 
