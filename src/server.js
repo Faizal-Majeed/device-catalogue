@@ -1,7 +1,9 @@
 var express = require('express');
 var app = express();
+const cors = require("cors");
 var router = express.Router();
 var PORT = 8081;
+
 
 router.get('/watches', function(req, res) {
   res.json({
@@ -48,7 +50,7 @@ router.get('/iphones', function(req, res) {
 });
 
 app.use('/', router);
-
+app.use(cors());
 app.listen(PORT, () => {
   console.log(`API started on port ${PORT}`);
 });
