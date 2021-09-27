@@ -1,3 +1,14 @@
+# TELUS Digital Assessment
+
+TELUS Device Catalogue is a React app that used to browse a selection of Apple watches and iPhones. This project is built with React client-side, Node and Express on the backend along with Jest for unit testing.
+
+This project was created as a developer challenge for TELUS Digital.
+
+[Click here to see requirement](#device-catalogue)
+
+### Issues
+Due to Import Image issue on Jest, I was not ble to complete the unit test. 
+
 # Device Catalogue
 
 A customer would like to browse all the Apple devices available for purchase. Create an application with a component that reads and displays devices from the local restful API on port `8081`.
